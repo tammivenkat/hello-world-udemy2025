@@ -6,7 +6,7 @@
 </head>
 <body>
 
-    <h1>Hello, World! This is a Main Heading</h1>
+    <h1>Hello, World! This is a Main Heading of Thammi</h1>
 
     <p>This is a paragraph of text. It's where you put most of your content.</p>
 
@@ -15,7 +15,7 @@
         <a href="https://www.google.com" target="_blank">Visit Google</a>
     </p>
 
-    <h2>A Section Heading</h2>
+    <h2>DevOps Learning is going right way</h2>
     
     <p>Here is an unordered **list**:</p>
     <ul>
